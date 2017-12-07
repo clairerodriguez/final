@@ -6,6 +6,7 @@
 
 .featured-image-block {
   margin-bottom: 20px;
+  background:#000000;
 }
 
 .featured-image-block .featured-image-block-title {
