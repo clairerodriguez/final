@@ -14,9 +14,9 @@
   text-transform: uppercase;
   letter-spacing: 1px;
   font-size: 1em;
-  color: #404040;
+  color: #000000;
 }
 
 .featured-image-block a:hover p {
-  color: #1779ba;
+  color: #000000;
 }
